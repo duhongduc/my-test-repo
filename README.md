@@ -1,1 +1,1 @@
-# my-test-repo"Duc Du tested Git from command line on personal computer" 
+# my-test-repo"Duc Du tested Git from Rstudio on personal computer" 
